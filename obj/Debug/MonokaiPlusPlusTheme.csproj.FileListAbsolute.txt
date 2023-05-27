@@ -1,0 +1,13 @@
+D:\Code\MonokaiPlusPlusTheme\bin\Debug\monokai++.pkgdef
+D:\Code\MonokaiPlusPlusTheme\bin\Debug\MonokaiPlusPlusTheme.vsix
+D:\Code\MonokaiPlusPlusTheme\bin\Debug\extension.vsixmanifest
+D:\Code\MonokaiPlusPlusTheme\obj\Debug\MonokaiPlusPlusTheme.csproj.AssemblyReference.cache
+D:\Code\MonokaiPlusPlusTheme\obj\Debug\_EmptyResource.resources
+D:\Code\MonokaiPlusPlusTheme\obj\Debug\MonokaiPlusPlusTheme.csproj.GenerateResource.cache
+D:\Code\MonokaiPlusPlusTheme\obj\Debug\MonokaiPlusPlusTheme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\MonokaiPlusPlusTheme\obj\Debug\MonokaiPlusPlusTheme.csproj.CoreCompileInputs.cache
+D:\Code\MonokaiPlusPlusTheme\obj\Debug\MonokaiPlusPlusTheme.dll
+D:\Code\MonokaiPlusPlusTheme\obj\Debug\MonokaiPlusPlusTheme.pdb
+D:\Code\MonokaiPlusPlusTheme\obj\Debug\extension.vsixmanifest
+D:\Code\MonokaiPlusPlusTheme\obj\Debug\files.json
+D:\Code\MonokaiPlusPlusTheme\obj\Debug\createTemplateManifests.cache
